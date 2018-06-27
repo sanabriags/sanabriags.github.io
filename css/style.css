@@ -912,7 +912,7 @@ article {
       display: block;
       margin-bottom: 20px;
       text-transform: uppercase;
-      letter-spacing: 5px;
+      letter-spacing: 3px;
       font-size: 14px; }
     .staff .desc .parag {
       opacity: 0;
@@ -920,7 +920,10 @@ article {
       -o-transition: 0.1s;
       transition: 0.1s; }
       .staff .desc .parag p {
-        color: #4d4d4d; }
+        font-size: 14px;
+        margin: 1px;
+        letter-spacing: 2px;
+        color: #3e7d87; }
   .staff:hover .desc {
     opacity: 1;
     margin-top: 10px;
@@ -1337,8 +1340,8 @@ input[type="text"] {
   color: #fff;
   border: 2px solid #3e7d87; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-    background: #ffd21a !important;
-    border-color: #ffd21a !important; }
+    background: #20c1db !important;
+    border-color: #20c1db !important; }
   .btn-primary.btn-outline {
     background: transparent;
     color: #3e7d87;
