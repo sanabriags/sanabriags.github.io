@@ -906,14 +906,14 @@ article {
       font-weight: 700;
       text-transform: uppercase;
       margin-bottom: 10px;
-      font-size: 20px; }
+      font-size: 15px; }
     .staff .desc span {
       color: #b3b3b3;
       display: block;
       margin-bottom: 20px;
       text-transform: uppercase;
       letter-spacing: 3px;
-      font-size: 14px; }
+      font-size: 13px; }
     .staff .desc .parag {
       opacity: 0;
       -webkit-transition: 0.1s;
